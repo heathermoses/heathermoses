@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @heathermoses
-- 👀 I’m interested in web development, macOS development, project management, and database management.
-- 🌱 I’m currently learning Swift!
-- 💞️ I’m looking to collaborate on anything and everything! I love a challenge and I love to learn :)
+- 👀 I’m interested in full-stack web development, front-end web development technologies, and project management.
+- 🌱 I’m currently learning React + TypeScript!
+- 💞️ I love to constantly learn new things and challenge myself.
 - 📫 How to reach me: Email me @heather-moses@outlook.com
 
 <!---
